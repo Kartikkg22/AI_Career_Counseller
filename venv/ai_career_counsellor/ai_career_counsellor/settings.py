@@ -126,5 +126,5 @@ STATIC_ROOT = BASE_DIR / 'staticfiles'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # settings.py
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = ""
 
